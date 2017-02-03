@@ -3,7 +3,8 @@
             <script
             src="https://code.jquery.com/jquery-3.1.1.min.js"
             integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-            crossorigin="anonymous"></script> in you HTML file..
+            crossorigin="anonymous"></script> 
+    //in you HTML file..
             
     var date = new Date();
     var firstDay = new Date(date.getUTCFullYear(), date.getMonth(), 1);
